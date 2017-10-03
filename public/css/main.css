@@ -1,0 +1,140 @@
+.top
+{
+    display: block;
+    width: 100%;
+    background: #f8f8f8;
+    border-bottom: 1px solid #e5e5e5;
+    height: 50px;
+    padding-bottom: 10px;
+    position: fixed;
+    top: 0;
+}
+.left_logo
+{
+    float: left;
+    width: 30%;
+
+}
+.text_logo
+{
+    font-size: 21px;
+    color: #585858;
+    margin-left: 25px;
+    text-align: left;
+    float: left;
+}
+.main_content
+{
+    display: inline-block;
+    width: 1400px;
+    margin-left: 200px;
+    padding: 10px;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.left_main
+{
+    float: left;
+width: 1000px;
+background: #f8f8f8;
+border: 1px solid #c3c3c3;
+display: inline-block;
+}
+.right_main
+{
+    float: right;
+width: 300px;
+height: 300px;
+border-radius: 3px;
+border: 1px solid #c3c3c3;
+background: #f8f8f8;
+}
+.footer
+{
+    display: block;
+    width: 100%;
+    height: 50px;
+    font-size: 17px;
+    color:  #c3c3c3;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+    background: #f8f8f8;
+    position:fixed;
+    bottom: 0;
+}
+.text_bot{
+    margin-top: 12px;
+}
+h1
+{
+    font-size: 25px;
+    color: #6c6c6c;
+}
+.text_r
+{
+    width: 93%;
+border-bottom: 1px solid #c3c3c3;
+margin-left: 11px;
+}
+.text_l
+{
+    width: 97%;
+border-bottom: 1px solid #c3c3c3;
+margin-left: 11px;
+}
+.ff
+{
+    display: block;
+width: 970px;
+background: #f4f4f4;
+
+border: 1px solid #c6c6c6;
+border-radius: 3px;
+height: 150px;
+margin-bottom:  10px;
+margin-left: 10px;
+margin-top: 10px;
+
+}
+.title
+{
+    font-size: 20px;
+    color: #6c6c6c;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.text_ff
+{
+    float: left;
+    display: block;
+    width: 97%;
+    font-size: 17px;
+    color: #6c6c6c;;
+    margin-left: 20px;
+}
+.link{
+    width: 200px;
+    height: 70px;
+    align-content: center;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+.source{
+    display: block;
+}
+
+body{
+    margin: 0;
+}
+
+.img_log{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 17px;
+}
